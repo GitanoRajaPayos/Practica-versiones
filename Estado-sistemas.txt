@@ -1,0 +1,4 @@
+Registro del sistema
+SistemaSEGIA
+Estado: Revisión
+Observación: Pendiente de pruebas
