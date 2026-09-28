@@ -1,4 +1,4 @@
 Registro del sistema
 SistemaSEGIA
 Estado: Aprobado
-Observación: Pruebas realizadas correctamente
+Observación: Versión aprobada para entrega
